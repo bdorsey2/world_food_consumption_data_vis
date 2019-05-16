@@ -55,3 +55,8 @@ The interactive plot snapshots above show the food and feed consumption by count
 
 ### Results/Summary/Conclusion:
 In summary, the dataset confirmed the relationship between population and food consumption but told an interesting story from a diet or food group perspective. Overall, there was a clear trend in countries moving towards a more balanced and varied source of foods. The large increase in vegetable consumption shows a generally more healthful global food system. The data also showed that food is more readily available to countries as consumption increased in absolute terms and relative terms to population. There were still outliers in countries that over consumed or under consumed on a per population basis. The U.S serving as an example of the former. In the latter case, depending on the country their under consumption most likely reflected their economic status or perhaps cultural differences in eating habits. Although, I briefly looked at trade, if given more time I would also like to look at food imports and exports. In addition, as food is related to health and nutrition, I would also like to explore relationships between this dataset and general health statistics about each country.
+
+### Citations:
+https://www.kaggle.com/dorbicycle/world-foodfeed-production
+https://data.worldbank.org/indicator/sp.pop.totl
+http://fortune.com/2018/03/07/biggest-us-trade-partners/

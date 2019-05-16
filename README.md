@@ -15,6 +15,7 @@ These histograms show a summary of a time lapse plot which shows the number of c
  
 The barplot shows world consumption of both food and feed by year. There is a clear increasing trend with a much more food than feed consumption. In 1992 there is a large jump due to additional country tracking.
 
+![barplot](https://user-images.githubusercontent.com/40878527/57831115-150dad00-7769-11e9-8b2c-2a85c6d50370.png)
  
 This boxplot shows the top 10 consumed food groups by year as a percentage of world food consumption that year. Interestingly, starch used to compose the largest percentage of world consumption early in the timeline. By the end of the timeline, starch is the lowest consumed food group of the top 10, and vegetables compose the largest percentage of world consumption.
 
@@ -23,7 +24,7 @@ This boxplot shows the top 10 consumed food groups by year as a percentage of wo
  
 This scatterplot shows country food and feed consumption plotted against population. I fitted a linear regression line to demonstrate that countries above the line have higher consumption per population relative to the average, and countries below the line have lower consumption per population relative to the average.
 
-
+![scatterplot](https://user-images.githubusercontent.com/40878527/57831158-2c4c9a80-7769-11e9-9acb-93f10492763f.png)
 
 This chloropleth map is a 2013 screenshot of a time lapse showing the population data by country. Country population is important in providing context to country consumption as show in the other plots.
 
@@ -47,14 +48,11 @@ This heatmap focuses on the top consuming country in the world – China. It sho
  
 The stacked area plot shows the consumption of the top 10 food groups by year. Once again it shows wheat products, fruits, and vegetables were consumed less than starchy roots earlier in the timeline, but have seen growth in consumption beyond starchy roots by 2013.
 
-
-
-
-
-
-
+![stackedarea](https://user-images.githubusercontent.com/40878527/57831178-3a022000-7769-11e9-806c-93add43b3402.png)
 
 The treemap shows the top 10 countries by consumption of the top 10 food groups. As the most populous country. China leads consumption in most groups, with milk products being the largest exception; where India and U.S exceed China’s consumption.
+
+![treemap](https://user-images.githubusercontent.com/40878527/57831204-4c7c5980-7769-11e9-99fb-0b888be7edd7.png)
 
 * Interactive plot, Bubble Map
  

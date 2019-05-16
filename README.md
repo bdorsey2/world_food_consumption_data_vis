@@ -42,17 +42,14 @@ The connection map shows the U.S’s top trade partners and total trade dollars 
 
 This heatmap focuses on the top consuming country in the world – China. It shows the most consumed food groups in China from 1961-2013. The standout observations are that rice, starchy roots, sweet potatoes andnd cereals have become a smaller percentage of China’s total consumption. Conversely, vegetables now make up the largest percentage of total consumption of any food groups. 
 
-
-
-
+![stackedarea](https://user-images.githubusercontent.com/40878527/57831178-3a022000-7769-11e9-806c-93add43b3402.png)
  
 The stacked area plot shows the consumption of the top 10 food groups by year. Once again it shows wheat products, fruits, and vegetables were consumed less than starchy roots earlier in the timeline, but have seen growth in consumption beyond starchy roots by 2013.
 
-![stackedarea](https://user-images.githubusercontent.com/40878527/57831178-3a022000-7769-11e9-806c-93add43b3402.png)
+![treemap](https://user-images.githubusercontent.com/40878527/57831204-4c7c5980-7769-11e9-99fb-0b888be7edd7.png)
 
 The treemap shows the top 10 countries by consumption of the top 10 food groups. As the most populous country. China leads consumption in most groups, with milk products being the largest exception; where India and U.S exceed China’s consumption.
 
-![treemap](https://user-images.githubusercontent.com/40878527/57831204-4c7c5980-7769-11e9-99fb-0b888be7edd7.png)
 
 * Interactive plot, Bubble Map
  
